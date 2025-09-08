@@ -1,6 +1,6 @@
 #.dockerignore
 # Gitea
-.gitea
+.github
 
 # Docker
 .dockerignore
